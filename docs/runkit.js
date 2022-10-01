@@ -1,4 +1,4 @@
-const { MetricReporter, MetricReporterMode, MetricReporterError } = require('readme-metrics-reporter');
+const { MetricReporter, MetricReporterMode, MetricReporterError } = require('readme-metric-reporter');
 
 /**
  * Get your API key here
