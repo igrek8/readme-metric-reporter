@@ -52,7 +52,7 @@ jobs:
           cache: 'npm'
       - run: npm ci
       - run: npm test -- --coverage
-      - uses: coverallsapp/github-action@master
+      - uses: coverallsapp/github-action@1.1.3
         if: always()
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
