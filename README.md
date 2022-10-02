@@ -1,6 +1,6 @@
 # Report API usage using [README.com](https://docs.readme.com/docs/api-metrics-in-readme)
 
-Collect and publish API usage metrics to README.io
+Collect and publish API usage metrics to README.com
 
 [![NPM](https://badgen.net/npm/v/readme-metric-reporter)](https://www.npmjs.com/readme-metric-reporter)
 [![Coverage Status](https://coveralls.io/repos/github/igrek8/readme-metric-reporter/badge.svg?branch=main)](https://coveralls.io/github/igrek8/readme-metric-reporter?branch=main)
