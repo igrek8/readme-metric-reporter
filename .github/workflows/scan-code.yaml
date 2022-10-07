@@ -5,10 +5,6 @@ on:
     branches:
       - main
 
-concurrency:
-  group: ${{ github.workflow }}
-  cancel-in-progress: true
-
 env:
   SPECTRAL_DSN: ${{ secrets.SPECTRAL_DSN }}
 
