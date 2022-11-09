@@ -3,7 +3,7 @@
 Collect and publish API usage metrics to README.com
 
 [![NPM](https://badgen.net/npm/v/readme-metric-reporter)](https://www.npmjs.com/readme-metric-reporter)
-[![Coverage Status](https://coveralls.io/repos/github/igrek8/readme-metric-reporter/badge.svg?branch=main)](https://coveralls.io/github/igrek8/readme-metric-reporter?branch=main)
+[![Coverage](https://codecov.io/gh/igrek8/readme-metric-reporter/branch/main/graph/badge.svg)](https://codecov.io/gh/igrek8/readme-metric-reporter)
 ![Release](https://badgen.net/github/checks/igrek8/readme-metric-reporter)
 ![License](https://badgen.net/github/license/igrek8/readme-metric-reporter)
 [![Runkit](https://badgen.net/badge/runkit/playground/cyan)](https://npm.runkit.com/readme-metric-reporter)
@@ -18,9 +18,9 @@ yarn add readme-metric-reporter
 
 ## View in the dashboard
 
-![Integration](./docs/images/readme-io-admin.png)
+![Integration](./media/readme-io-admin.png)
 
-## [Integration](./docs/runkit.js)
+## [Integration](./runkit.js)
 
 ```ts
 const { MetricReporter, MetricReporterMode, MetricReporterError } = require('readme-metrics-reporter');

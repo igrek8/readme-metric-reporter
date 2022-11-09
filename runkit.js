@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-var-requires, @typescript-eslint/no-unused-vars */
 const { MetricReporter, MetricReporterMode, MetricReporterError } = require('readme-metric-reporter');
 
 /**
@@ -13,7 +14,7 @@ const reporter = new MetricReporter(API_KEY, {
   mode: MetricReporterMode.DEVELOPMENT,
 });
 
-reporter.on('error', (error, metrics) => {
+reporter.on('error', (error, _metrics) => {
   if (error instanceof MetricReporterError) {
     const message = error.response.body.toString();
     console.warn(message);
