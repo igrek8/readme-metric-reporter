@@ -20,4 +20,4 @@ Root of HAR object
 
 #### Defined in
 
-[Metric.ts:132](https://github.com/igrek8/readme-metric-reporter/blob/966dd02/src/Metric.ts#L132)
+[Metric.ts:132](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L132)

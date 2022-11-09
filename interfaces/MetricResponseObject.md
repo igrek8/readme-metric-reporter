@@ -23,7 +23,7 @@ Details about the response body
 
 #### Defined in
 
-[Metric.ts:102](https://github.com/igrek8/readme-metric-reporter/blob/966dd02/src/Metric.ts#L102)
+[Metric.ts:102](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L102)
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 #### Defined in
 
-[Metric.ts:100](https://github.com/igrek8/readme-metric-reporter/blob/966dd02/src/Metric.ts#L100)
+[Metric.ts:100](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L100)
 
 ___
 
@@ -47,7 +47,7 @@ HTTP Status Code
 
 #### Defined in
 
-[Metric.ts:97](https://github.com/igrek8/readme-metric-reporter/blob/966dd02/src/Metric.ts#L97)
+[Metric.ts:97](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L97)
 
 ___
 
@@ -61,4 +61,4 @@ Description of the HTTP status code
 
 #### Defined in
 
-[Metric.ts:99](https://github.com/igrek8/readme-metric-reporter/blob/966dd02/src/Metric.ts#L99)
+[Metric.ts:99](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L99)

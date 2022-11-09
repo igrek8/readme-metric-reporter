@@ -28,7 +28,7 @@ A uuidv4 identifier for this log. If not provided we will generate one for you. 
 
 #### Defined in
 
-[Metric.ts:142](https://github.com/igrek8/readme-metric-reporter/blob/966dd02/src/Metric.ts#L142)
+[Metric.ts:142](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L142)
 
 ___
 
@@ -42,7 +42,7 @@ IP Address making request
 
 #### Defined in
 
-[Metric.ts:144](https://github.com/igrek8/readme-metric-reporter/blob/966dd02/src/Metric.ts#L144)
+[Metric.ts:144](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L144)
 
 ___
 
@@ -56,7 +56,7 @@ true
 
 #### Defined in
 
-[Metric.ts:146](https://github.com/igrek8/readme-metric-reporter/blob/966dd02/src/Metric.ts#L146)
+[Metric.ts:146](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L146)
 
 ___
 
@@ -70,7 +70,7 @@ Data about the user or project making the API call
 
 #### Defined in
 
-[Metric.ts:148](https://github.com/igrek8/readme-metric-reporter/blob/966dd02/src/Metric.ts#L148)
+[Metric.ts:148](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L148)
 
 ___
 
@@ -84,4 +84,4 @@ HAR Object for Request
 
 #### Defined in
 
-[Metric.ts:150](https://github.com/igrek8/readme-metric-reporter/blob/966dd02/src/Metric.ts#L150)
+[Metric.ts:150](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L150)

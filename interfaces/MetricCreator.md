@@ -28,7 +28,7 @@ mac/v10.16.0
 
 #### Defined in
 
-[Metric.ts:25](https://github.com/igrek8/readme-metric-reporter/blob/966dd02/src/Metric.ts#L25)
+[Metric.ts:25](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L25)
 
 ___
 
@@ -48,7 +48,7 @@ readmeio
 
 #### Defined in
 
-[Metric.ts:15](https://github.com/igrek8/readme-metric-reporter/blob/966dd02/src/Metric.ts#L15)
+[Metric.ts:15](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L15)
 
 ___
 
@@ -68,4 +68,4 @@ Version of the package or HTTP module.
 
 #### Defined in
 
-[Metric.ts:20](https://github.com/igrek8/readme-metric-reporter/blob/966dd02/src/Metric.ts#L20)
+[Metric.ts:20](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L20)
