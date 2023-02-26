@@ -1,16 +1,13 @@
 {
   "name": "readme-metric-reporter",
   "version": "0.0.0",
-  "private": false,
+  "description": "Collect and publish API usage metrics to README.com",
   "license": "MIT",
   "author": "Igor Korchagin (https://github.com/igrek8)",
   "keywords": [
     "metrics",
     "api"
   ],
-  "description": "Collect and publish API usage metrics to README.com",
-  "main": "./dist/index.js",
-  "types": "./dist/index.d.ts",
   "homepage": "https://github.com/igrek8/readme-metric-reporter#readme",
   "repository": {
     "type": "git",
@@ -19,53 +16,60 @@
   "bugs": {
     "url": "https://github.com/igrek8/readme-metric-reporter/issues"
   },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "files": [
-    "./dist",
-    "./runkit.js"
+    "dist",
+    "runkit.js"
   ],
+  "prettier": "@igrek8/prettier",
+  "publishConfig": {
+    "access": "public"
+  },
+  "release": {
+    "extends": "@igrek8/semantic-release"
+  },
+  "jest": {
+    "preset": "@igrek8/jest",
+    "rootDir": "src"
+  },
+  "eslintConfig": {
+    "extends": "@igrek8/eslint-config",
+    "env": {
+      "node": true
+    }
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  },
+  "runkitExampleFilename": "runkit.js",
   "scripts": {
-    "prepare": "husky install",
-    "clean": "rimraf ./dist",
+    "clean": "rimraf dist",
     "test": "jest",
-    "compile": "tsc --project ./tsconfig.build.json",
+    "compile": "tsc -p tsconfig.build.json",
     "build": "npm run clean && npm run compile",
     "lint": "eslint \"**/*\"",
     "format": "prettier --check \"**/*\"",
-    "docs:build": "typedoc --out ./docs",
-    "docs:publish": "cp ./public/index.html ./docs/index.html && gh-pages --dist ./docs",
-    "docs": "npm run docs:build && npm run docs:publish",
-    "watch": "tsc --watch --project ./tsconfig.build.json"
-  },
-  "devDependencies": {
-    "@commitlint/cli": "^17.2.0",
-    "@commitlint/config-conventional": "^17.2.0",
-    "@semantic-release/commit-analyzer": "^9.0.2",
-    "@semantic-release/github": "^8.0.6",
-    "@semantic-release/npm": "^9.0.1",
-    "@semantic-release/release-notes-generator": "^10.0.3",
-    "@types/jest": "^29.1.1",
-    "@types/node": "^16.11.59",
-    "@typescript-eslint/eslint-plugin": "^5.38.1",
-    "@typescript-eslint/parser": "^5.38.0",
-    "eslint": "^8.24.0",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-prettier": "^4.2.1",
-    "gh-pages": "^4.0.0",
-    "husky": "^8.0.1",
-    "jest": "^29.1.2",
-    "prettier": "^2.7.1",
-    "rimraf": "^3.0.2",
-    "semantic-release": "^19.0.5",
-    "ts-jest": "^29.0.3",
-    "ts-node": "^10.9.1",
-    "typedoc": "^0.23.20",
-    "typedoc-plugin-markdown": "^3.13.6",
-    "typescript": "^4.8.4"
+    "docs": "typedoc build -o docs && typedoc publish -o docs"
   },
   "dependencies": {
     "tslib": "^2",
     "await-lock": "^2",
     "utility-types": "^3"
   },
-  "runkitExampleFilename": "./runkit.js"
+  "devDependencies": {
+    "@commitlint/cli": "17.4.4",
+    "@commitlint/config-conventional": "17.4.4",
+    "@igrek8/eslint-config": "1.0.6",
+    "@igrek8/jest": "1.0.1",
+    "@igrek8/prettier": "1.0.1",
+    "@igrek8/semantic-release": "1.0.2",
+    "@igrek8/typescript": "1.0.1",
+    "@igrek8/typedoc": "1.0.1",
+    "@types/node": "18.14.1",
+    "husky": "8.0.3",
+    "rimraf": "4.1.2"
+  }
 }
