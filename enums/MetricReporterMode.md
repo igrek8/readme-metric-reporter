@@ -17,7 +17,7 @@
 
 #### Defined in
 
-[MetricReporterMode.ts:2](https://github.com/igrek8/readme-metric-reporter/blob/e67d426/src/MetricReporterMode.ts#L2)
+[MetricReporterMode.ts:2](https://github.com/igrek8/readme-metric-reporter/blob/fc76f3c/src/MetricReporterMode.ts#L2)
 
 ___
 
@@ -27,4 +27,4 @@ ___
 
 #### Defined in
 
-[MetricReporterMode.ts:3](https://github.com/igrek8/readme-metric-reporter/blob/e67d426/src/MetricReporterMode.ts#L3)
+[MetricReporterMode.ts:3](https://github.com/igrek8/readme-metric-reporter/blob/fc76f3c/src/MetricReporterMode.ts#L3)
