@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[Metric.ts:57](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L57)
+[Metric.ts:57](https://github.com/igrek8/readme-metric-reporter/blob/e67d426/src/Metric.ts#L57)
 
 ___
 
@@ -34,7 +34,7 @@ Content type of posted file
 
 #### Defined in
 
-[Metric.ts:56](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L56)
+[Metric.ts:56](https://github.com/igrek8/readme-metric-reporter/blob/e67d426/src/Metric.ts#L56)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[Metric.ts:54](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L54)
+[Metric.ts:54](https://github.com/igrek8/readme-metric-reporter/blob/e67d426/src/Metric.ts#L54)
 
 ___
 
@@ -58,7 +58,7 @@ The request body parameter name
 
 #### Defined in
 
-[Metric.ts:51](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L51)
+[Metric.ts:51](https://github.com/igrek8/readme-metric-reporter/blob/e67d426/src/Metric.ts#L51)
 
 ___
 
@@ -72,4 +72,4 @@ The request body parameter value
 
 #### Defined in
 
-[Metric.ts:53](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L53)
+[Metric.ts:53](https://github.com/igrek8/readme-metric-reporter/blob/e67d426/src/Metric.ts#L53)

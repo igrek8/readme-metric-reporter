@@ -30,7 +30,7 @@ https://api.example.com/v1/pets
 
 #### Defined in
 
-[Metric.ts:110](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L110)
+[Metric.ts:110](https://github.com/igrek8/readme-metric-reporter/blob/e67d426/src/Metric.ts#L110)
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 #### Defined in
 
-[Metric.ts:119](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L119)
+[Metric.ts:119](https://github.com/igrek8/readme-metric-reporter/blob/e67d426/src/Metric.ts#L119)
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 #### Defined in
 
-[Metric.ts:120](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L120)
+[Metric.ts:120](https://github.com/igrek8/readme-metric-reporter/blob/e67d426/src/Metric.ts#L120)
 
 ___
 
@@ -72,7 +72,7 @@ HTTP request start time. This should be the moment the server receives the reque
 
 #### Defined in
 
-[Metric.ts:116](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L116)
+[Metric.ts:116](https://github.com/igrek8/readme-metric-reporter/blob/e67d426/src/Metric.ts#L116)
 
 ___
 
@@ -86,4 +86,4 @@ Total elapsed time in milliseconds between the `startedDateTime` and the complet
 
 #### Defined in
 
-[Metric.ts:118](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L118)
+[Metric.ts:118](https://github.com/igrek8/readme-metric-reporter/blob/e67d426/src/Metric.ts#L118)

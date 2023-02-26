@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[Metric.ts:66](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L66)
+[Metric.ts:66](https://github.com/igrek8/readme-metric-reporter/blob/e67d426/src/Metric.ts#L66)
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 #### Defined in
 
-[Metric.ts:61](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L61)
+[Metric.ts:61](https://github.com/igrek8/readme-metric-reporter/blob/e67d426/src/Metric.ts#L61)
 
 ___
 
@@ -43,7 +43,7 @@ If the request body is url encoded (e.g. `a=b&c=d`) then those parameters are pr
 
 #### Defined in
 
-[Metric.ts:63](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L63)
+[Metric.ts:63](https://github.com/igrek8/readme-metric-reporter/blob/e67d426/src/Metric.ts#L63)
 
 ___
 
@@ -57,4 +57,4 @@ The string representation of the request body. Used for all cases except for a f
 
 #### Defined in
 
-[Metric.ts:65](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L65)
+[Metric.ts:65](https://github.com/igrek8/readme-metric-reporter/blob/e67d426/src/Metric.ts#L65)

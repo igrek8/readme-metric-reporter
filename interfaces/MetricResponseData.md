@@ -29,7 +29,7 @@ base64
 
 #### Defined in
 
-[Metric.ts:92](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L92)
+[Metric.ts:92](https://github.com/igrek8/readme-metric-reporter/blob/e67d426/src/Metric.ts#L92)
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 #### Defined in
 
-[Metric.ts:85](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L85)
+[Metric.ts:85](https://github.com/igrek8/readme-metric-reporter/blob/e67d426/src/Metric.ts#L85)
 
 ___
 
@@ -53,7 +53,7 @@ Length of the returned content in bytes
 
 #### Defined in
 
-[Metric.ts:84](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L84)
+[Metric.ts:84](https://github.com/igrek8/readme-metric-reporter/blob/e67d426/src/Metric.ts#L84)
 
 ___
 
@@ -67,4 +67,4 @@ Response body sent from the server. This field is populated with textual content
 
 #### Defined in
 
-[Metric.ts:87](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/Metric.ts#L87)
+[Metric.ts:87](https://github.com/igrek8/readme-metric-reporter/blob/e67d426/src/Metric.ts#L87)

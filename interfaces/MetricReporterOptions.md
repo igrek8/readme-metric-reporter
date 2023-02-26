@@ -25,7 +25,7 @@
 
 #### Defined in
 
-[MetricReporter.ts:11](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/MetricReporter.ts#L11)
+[MetricReporter.ts:11](https://github.com/igrek8/readme-metric-reporter/blob/e67d426/src/MetricReporter.ts#L11)
 
 ___
 
@@ -37,7 +37,7 @@ HTTP client options
 
 #### Defined in
 
-[MetricReporter.ts:25](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/MetricReporter.ts#L25)
+[MetricReporter.ts:25](https://github.com/igrek8/readme-metric-reporter/blob/e67d426/src/MetricReporter.ts#L25)
 
 ___
 
@@ -49,4 +49,4 @@ Development logs will not affect production statistics
 
 #### Defined in
 
-[MetricReporter.ts:30](https://github.com/igrek8/readme-metric-reporter/blob/2a81fee/src/MetricReporter.ts#L30)
+[MetricReporter.ts:30](https://github.com/igrek8/readme-metric-reporter/blob/e67d426/src/MetricReporter.ts#L30)
