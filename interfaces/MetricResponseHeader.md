@@ -21,7 +21,7 @@ The header name
 
 #### Defined in
 
-[Metric.ts:44](https://github.com/igrek8/readme-metric-reporter/blob/fc76f3c/src/Metric.ts#L44)
+[Metric.ts:44](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/Metric.ts#L44)
 
 ___
 
@@ -35,4 +35,4 @@ The header value
 
 #### Defined in
 
-[Metric.ts:46](https://github.com/igrek8/readme-metric-reporter/blob/fc76f3c/src/Metric.ts#L46)
+[Metric.ts:46](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/Metric.ts#L46)

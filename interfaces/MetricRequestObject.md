@@ -25,7 +25,7 @@ Headers
 
 #### Defined in
 
-[Metric.ts:77](https://github.com/igrek8/readme-metric-reporter/blob/fc76f3c/src/Metric.ts#L77)
+[Metric.ts:77](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/Metric.ts#L77)
 
 ___
 
@@ -39,7 +39,7 @@ Name and revision of the information protocol via which the page was requested.
 
 #### Defined in
 
-[Metric.ts:75](https://github.com/igrek8/readme-metric-reporter/blob/fc76f3c/src/Metric.ts#L75)
+[Metric.ts:75](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/Metric.ts#L75)
 
 ___
 
@@ -53,7 +53,7 @@ HTTP Method
 
 #### Defined in
 
-[Metric.ts:71](https://github.com/igrek8/readme-metric-reporter/blob/fc76f3c/src/Metric.ts#L71)
+[Metric.ts:71](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/Metric.ts#L71)
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 #### Defined in
 
-[Metric.ts:79](https://github.com/igrek8/readme-metric-reporter/blob/fc76f3c/src/Metric.ts#L79)
+[Metric.ts:79](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/Metric.ts#L79)
 
 ___
 
@@ -73,7 +73,7 @@ ___
 
 #### Defined in
 
-[Metric.ts:78](https://github.com/igrek8/readme-metric-reporter/blob/fc76f3c/src/Metric.ts#L78)
+[Metric.ts:78](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/Metric.ts#L78)
 
 ___
 
@@ -87,4 +87,4 @@ Full URL of Request
 
 #### Defined in
 
-[Metric.ts:73](https://github.com/igrek8/readme-metric-reporter/blob/fc76f3c/src/Metric.ts#L73)
+[Metric.ts:73](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/Metric.ts#L73)

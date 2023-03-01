@@ -18,7 +18,7 @@
 
 #### Defined in
 
-[request.ts:7](https://github.com/igrek8/readme-metric-reporter/blob/fc76f3c/src/request.ts#L7)
+[request.ts:7](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/request.ts#L7)
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 #### Defined in
 
-[request.ts:6](https://github.com/igrek8/readme-metric-reporter/blob/fc76f3c/src/request.ts#L6)
+[request.ts:6](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/request.ts#L6)
 
 ___
 
@@ -38,4 +38,4 @@ ___
 
 #### Defined in
 
-[request.ts:5](https://github.com/igrek8/readme-metric-reporter/blob/fc76f3c/src/request.ts#L5)
+[request.ts:5](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/request.ts#L5)

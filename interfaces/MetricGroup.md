@@ -22,7 +22,7 @@ Email associated with the API call
 
 #### Defined in
 
-[Metric.ts:3](https://github.com/igrek8/readme-metric-reporter/blob/fc76f3c/src/Metric.ts#L3)
+[Metric.ts:3](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/Metric.ts#L3)
 
 ___
 
@@ -36,7 +36,7 @@ The API key for your user. Note: This field is called `apiKey` in the official S
 
 #### Defined in
 
-[Metric.ts:7](https://github.com/igrek8/readme-metric-reporter/blob/fc76f3c/src/Metric.ts#L7)
+[Metric.ts:7](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/Metric.ts#L7)
 
 ___
 
@@ -50,4 +50,4 @@ Human-readable description of user or project making the API call. Ex) Company N
 
 #### Defined in
 
-[Metric.ts:5](https://github.com/igrek8/readme-metric-reporter/blob/fc76f3c/src/Metric.ts#L5)
+[Metric.ts:5](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/Metric.ts#L5)
