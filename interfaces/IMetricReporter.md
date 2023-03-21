@@ -33,7 +33,7 @@
 
 #### Defined in
 
-[IMetricReporter.ts:6](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/IMetricReporter.ts#L6)
+[IMetricReporter.ts:6](https://github.com/igrek8/readme-metric-reporter/blob/fa80eaf/src/IMetricReporter.ts#L6)
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 #### Defined in
 
-[IMetricReporter.ts:5](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/IMetricReporter.ts#L5)
+[IMetricReporter.ts:5](https://github.com/igrek8/readme-metric-reporter/blob/fa80eaf/src/IMetricReporter.ts#L5)
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 #### Defined in
 
-[IMetricReporter.ts:4](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/IMetricReporter.ts#L4)
+[IMetricReporter.ts:4](https://github.com/igrek8/readme-metric-reporter/blob/fa80eaf/src/IMetricReporter.ts#L4)
 
 ___
 
@@ -81,4 +81,4 @@ ___
 
 #### Defined in
 
-[IMetricReporter.ts:7](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/IMetricReporter.ts#L7)
+[IMetricReporter.ts:7](https://github.com/igrek8/readme-metric-reporter/blob/fa80eaf/src/IMetricReporter.ts#L7)

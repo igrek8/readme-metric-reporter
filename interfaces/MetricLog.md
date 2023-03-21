@@ -21,7 +21,7 @@ Information about the package or HTTP module used to log the request.
 
 #### Defined in
 
-[Metric.ts:125](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/Metric.ts#L125)
+[Metric.ts:125](https://github.com/igrek8/readme-metric-reporter/blob/fa80eaf/src/Metric.ts#L125)
 
 ___
 
@@ -35,4 +35,4 @@ HTTP Requests made
 
 #### Defined in
 
-[Metric.ts:127](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/Metric.ts#L127)
+[Metric.ts:127](https://github.com/igrek8/readme-metric-reporter/blob/fa80eaf/src/Metric.ts#L127)

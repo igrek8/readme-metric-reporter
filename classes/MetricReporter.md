@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[MetricReporter.ts:173](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/MetricReporter.ts#L173)
+[MetricReporter.ts:173](https://github.com/igrek8/readme-metric-reporter/blob/fa80eaf/src/MetricReporter.ts#L173)
 
 ___
 
@@ -80,7 +80,7 @@ EventEmitter.emit
 
 #### Defined in
 
-[MetricReporter.ts:37](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/MetricReporter.ts#L37)
+[MetricReporter.ts:37](https://github.com/igrek8/readme-metric-reporter/blob/fa80eaf/src/MetricReporter.ts#L37)
 
 ___
 
@@ -100,7 +100,7 @@ Force flush metrics
 
 #### Defined in
 
-[MetricReporter.ts:136](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/MetricReporter.ts#L136)
+[MetricReporter.ts:136](https://github.com/igrek8/readme-metric-reporter/blob/fa80eaf/src/MetricReporter.ts#L136)
 
 ___
 
@@ -125,7 +125,7 @@ EventEmitter.off
 
 #### Defined in
 
-[MetricReporter.ts:36](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/MetricReporter.ts#L36)
+[MetricReporter.ts:36](https://github.com/igrek8/readme-metric-reporter/blob/fa80eaf/src/MetricReporter.ts#L36)
 
 ___
 
@@ -150,7 +150,7 @@ EventEmitter.on
 
 #### Defined in
 
-[MetricReporter.ts:34](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/MetricReporter.ts#L34)
+[MetricReporter.ts:34](https://github.com/igrek8/readme-metric-reporter/blob/fa80eaf/src/MetricReporter.ts#L34)
 
 ___
 
@@ -175,7 +175,7 @@ EventEmitter.once
 
 #### Defined in
 
-[MetricReporter.ts:35](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/MetricReporter.ts#L35)
+[MetricReporter.ts:35](https://github.com/igrek8/readme-metric-reporter/blob/fa80eaf/src/MetricReporter.ts#L35)
 
 ___
 
@@ -189,7 +189,7 @@ ___
 
 #### Defined in
 
-[MetricReporter.ts:125](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/MetricReporter.ts#L125)
+[MetricReporter.ts:125](https://github.com/igrek8/readme-metric-reporter/blob/fa80eaf/src/MetricReporter.ts#L125)
 
 ___
 
@@ -215,7 +215,7 @@ Enqueues an API metric
 
 #### Defined in
 
-[MetricReporter.ts:91](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/MetricReporter.ts#L91)
+[MetricReporter.ts:91](https://github.com/igrek8/readme-metric-reporter/blob/fa80eaf/src/MetricReporter.ts#L91)
 
 ___
 
@@ -235,7 +235,7 @@ Starts sending metrics
 
 #### Defined in
 
-[MetricReporter.ts:107](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/MetricReporter.ts#L107)
+[MetricReporter.ts:107](https://github.com/igrek8/readme-metric-reporter/blob/fa80eaf/src/MetricReporter.ts#L107)
 
 ___
 
@@ -255,7 +255,7 @@ Stops sending metrics
 
 #### Defined in
 
-[MetricReporter.ts:118](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/MetricReporter.ts#L118)
+[MetricReporter.ts:118](https://github.com/igrek8/readme-metric-reporter/blob/fa80eaf/src/MetricReporter.ts#L118)
 
 ___
 
@@ -269,7 +269,7 @@ ___
 
 #### Defined in
 
-[MetricReporter.ts:129](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/MetricReporter.ts#L129)
+[MetricReporter.ts:129](https://github.com/igrek8/readme-metric-reporter/blob/fa80eaf/src/MetricReporter.ts#L129)
 
 ## Constructors
 
@@ -290,7 +290,7 @@ EventEmitter.constructor
 
 #### Defined in
 
-[MetricReporter.ts:64](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/MetricReporter.ts#L64)
+[MetricReporter.ts:64](https://github.com/igrek8/readme-metric-reporter/blob/fa80eaf/src/MetricReporter.ts#L64)
 
 ## Properties
 
@@ -300,7 +300,7 @@ EventEmitter.constructor
 
 #### Defined in
 
-[MetricReporter.ts:49](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/MetricReporter.ts#L49)
+[MetricReporter.ts:49](https://github.com/igrek8/readme-metric-reporter/blob/fa80eaf/src/MetricReporter.ts#L49)
 
 ## Accessors
 
@@ -314,4 +314,4 @@ EventEmitter.constructor
 
 #### Defined in
 
-[MetricReporter.ts:169](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/MetricReporter.ts#L169)
+[MetricReporter.ts:169](https://github.com/igrek8/readme-metric-reporter/blob/fa80eaf/src/MetricReporter.ts#L169)

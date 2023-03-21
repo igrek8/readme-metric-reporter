@@ -37,7 +37,7 @@ Error.constructor
 
 #### Defined in
 
-[MetricReporterError.ts:4](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/MetricReporterError.ts#L4)
+[MetricReporterError.ts:4](https://github.com/igrek8/readme-metric-reporter/blob/fa80eaf/src/MetricReporterError.ts#L4)
 
 ## Properties
 
@@ -47,4 +47,4 @@ Error.constructor
 
 #### Defined in
 
-[MetricReporterError.ts:4](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/MetricReporterError.ts#L4)
+[MetricReporterError.ts:4](https://github.com/igrek8/readme-metric-reporter/blob/fa80eaf/src/MetricReporterError.ts#L4)

@@ -21,7 +21,7 @@ The query string parameter name
 
 #### Defined in
 
-[Metric.ts:30](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/Metric.ts#L30)
+[Metric.ts:30](https://github.com/igrek8/readme-metric-reporter/blob/fa80eaf/src/Metric.ts#L30)
 
 ___
 
@@ -35,4 +35,4 @@ The query string parameter value
 
 #### Defined in
 
-[Metric.ts:32](https://github.com/igrek8/readme-metric-reporter/blob/2fe414e/src/Metric.ts#L32)
+[Metric.ts:32](https://github.com/igrek8/readme-metric-reporter/blob/fa80eaf/src/Metric.ts#L32)
